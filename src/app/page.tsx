@@ -12,11 +12,12 @@ interface Player {
   height: string;
   overall: string;
   image?: string;
+  extraData?: string;
 }
 
 export default function Home(props: any) {
   const [players, setPlayers] = useState<Player[]>(
-    getRandomPlayers(playerData, 20, 90)
+    getRandomPlayers(playerData, 20, 85)
   );
   const [randomPlayer, setRandomPlayer] = useState<Player>({
     name: "",
@@ -46,7 +47,7 @@ export default function Home(props: any) {
 
         <div className={styles.container}>
           <div className={styles.container_item}>
-            <p>Position</p>
+            <p>Position: </p>
 
             <div className={styles.container_item_position}>
               {randomPlayer.position.map((position) => {
@@ -55,17 +56,17 @@ export default function Home(props: any) {
             </div>
           </div>
 
-          {height ? (
-            <p className={styles.container_item}>Height {height}</p>
-          ) : (
-            <p>Extra Data: {randomPlayer.extraData}</p>
+          {height && <p className={styles.container_item}>Height: {height}</p>}
+          {randomPlayer.extraData && (
+            <p className={styles.container_item}>
+              Extra Data {randomPlayer.extraData}
+            </p>
           )}
-
-          <p className={styles.container_item}>Overall {overall}</p>
+          <p className={styles.container_item}>Overall: {overall}</p>
 
           {reveal ? (
             <div>
-              <p className={styles.container_item}>Name {name}</p>
+              <p className={styles.container_item}>Name: {name}</p>
               {randomPlayer.image ? (
                 <Image
                   className={styles.image}
