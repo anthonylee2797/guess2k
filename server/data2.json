@@ -1,0 +1,3421 @@
+{
+  "atlanta hawks": [
+    {
+      "name": "Trae Young",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "89",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/youngtr01.jpg"
+    },
+    {
+      "name": "Dejounte Murray",
+      "position": ["PG"],
+      "height": "6'5\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/murrade01.jpg"
+    },
+    {
+      "name": "Clint Capela",
+      "position": ["C"],
+      "height": "6'10\"",
+      "overall": "83",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/capelca01.jpg"
+    },
+    {
+      "name": "Onyeka Okongwu",
+      "position": ["C", "PF"],
+      "height": "6'9\"",
+      "overall": "81",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/okongon01.jpg"
+    },
+    {
+      "name": "De’Andre Hunter",
+      "position": ["SF", "PF"],
+      "height": "6'8\"",
+      "overall": "80"
+    },
+    {
+      "name": "Saddiq Bey",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/beysa01.jpg"
+    },
+    {
+      "name": "Bogdan Bogdanovic",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "79"
+    },
+    {
+      "name": "AJ Griffin",
+      "position": ["SF"],
+      "height": "6'6\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/griffaj01.jpg"
+    },
+    {
+      "name": "Jalen Johnson",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsja05.jpg"
+    },
+    {
+      "name": "Rudy Gay",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "75"
+    },
+    {
+      "name": "Bruno Fernando",
+      "position": ["C"],
+      "height": "6'10\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/fernabr01.jpg"
+    },
+    {
+      "name": "Usman Garuba",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/garubus01.jpg"
+    },
+    {
+      "name": "Aaron Holiday",
+      "position": ["SG"],
+      "height": "/",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/holidaa01.jpg"
+    },
+    {
+      "name": "Garrison Mathews",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mathega01.jpg"
+    },
+    {
+      "name": "TyTy Washington",
+      "position": ["PG"],
+      "height": "6'3\"",
+      "overall": "72"
+    },
+    {
+      "name": "Trent Forrest",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/forretr01.jpg"
+    },
+    {
+      "name": "Vit Krejci",
+      "position": ["SG"],
+      "height": "6'8\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/krejcvi01.jpg"
+    },
+    {
+      "name": "Tyrese Martin",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "69",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/martity01.jpg"
+    }
+  ],
+  "boston celtics": [
+    {
+      "name": "Jayson Tatum",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "95",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/tatumja01.jpg"
+    },
+    {
+      "name": "Jaylen Brown",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "90",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/brownja02.jpg"
+    },
+    {
+      "name": "Kristaps Porzingis",
+      "position": ["C", "PF"],
+      "height": "7'3\"",
+      "overall": "87"
+    },
+    {
+      "name": "Robert Williams III",
+      "position": ["C"],
+      "height": "6'9\"",
+      "overall": "83"
+    },
+    {
+      "name": "Malcolm Brogdon",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "83",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/brogdma01.jpg"
+    },
+    {
+      "name": "Al Horford",
+      "position": ["C", "PF"],
+      "height": "6'9\"",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/horfoal01.jpg"
+    },
+    {
+      "name": "Derrick White",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/whitede01.jpg"
+    },
+    {
+      "name": "Grant Williams",
+      "position": ["PF", "C"],
+      "height": "6'6\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/willigr01.jpg"
+    },
+    {
+      "name": "Blake Griffin",
+      "position": ["C", "PF"],
+      "height": "6'9\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/griffbl01.jpg"
+    },
+    {
+      "name": "Sam Hauser",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hausesa01.jpg"
+    },
+    {
+      "name": "Luke Kornet",
+      "position": ["C"],
+      "height": "7'2\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/kornelu01.jpg"
+    },
+    {
+      "name": "Payton Pritchard",
+      "position": ["PG", "SG"],
+      "height": "6'1\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/pritcpa01.jpg"
+    },
+    {
+      "name": "Oshae Brissett",
+      "position": ["PF", "C"],
+      "height": "6'7\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/brissos01.jpg"
+    },
+    {
+      "name": "Justin Champagnie",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/champju01.jpg"
+    },
+    {
+      "name": "Mfiondu Kabengele",
+      "position": ["PF", "C"],
+      "height": "6'10\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/kabenmf01.jpg"
+    },
+    {
+      "name": "JD Davison",
+      "position": ["PG", "SG"],
+      "height": "6'1\"",
+      "overall": "69",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/davisjd01.jpg"
+    }
+  ],
+  "brooklyn nets": [
+    {
+      "name": "Mikal Bridges",
+      "position": ["SF", "PF"],
+      "height": "6'6\"",
+      "overall": "87",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/bridgmi01.jpg"
+    },
+    {
+      "name": "Nicolas Claxton",
+      "position": ["C", "PF"],
+      "height": "6'11\"",
+      "overall": "84"
+    },
+    {
+      "name": "Spencer Dinwiddie",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "83",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/dinwisp01.jpg"
+    },
+    {
+      "name": "Cameron Johnson",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsca02.jpg"
+    },
+    {
+      "name": "Ben Simmons",
+      "position": ["PG", "PF"],
+      "height": "6'10\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/simmobe01.jpg"
+    },
+    {
+      "name": "Cameron Thomas",
+      "position": ["SG", "SF"],
+      "height": "6'3\"",
+      "overall": "78"
+    },
+    {
+      "name": "Dorian Finney-Smith",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/finnedo01.jpg"
+    },
+    {
+      "name": "Lonnie Walker IV",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/walkelo01.jpg"
+    },
+    {
+      "name": "Edmond Sumner",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/sumneed01.jpg"
+    },
+    {
+      "name": "Royce O’Neale",
+      "position": ["SF", "PF"],
+      "height": "6'6\"",
+      "overall": "76"
+    },
+    {
+      "name": "Dennis Smith Jr.",
+      "position": ["PG"],
+      "height": "6'2\"",
+      "overall": "74"
+    },
+    {
+      "name": "Day’Ron Sharpe",
+      "position": ["C"],
+      "height": "6'9\"",
+      "overall": "73"
+    },
+    {
+      "name": "David Duke Jr.",
+      "position": ["PG"],
+      "height": "6'4\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/dukeda01.jpg"
+    },
+    {
+      "name": "Raiquan Gray",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "69"
+    }
+  ],
+  "charlotte hornets": [
+    {
+      "name": "LaMelo Ball",
+      "position": ["PG", "SG"],
+      "height": "6'7\"",
+      "overall": "86"
+    },
+    {
+      "name": "Miles Bridges",
+      "position": ["PF", "SF"],
+      "height": "6'7\"",
+      "overall": "83"
+    },
+    {
+      "name": "Terry Rozier III",
+      "position": ["SG", "PG"],
+      "height": "6'1\"",
+      "overall": "81"
+    },
+    {
+      "name": "Kelly Oubre Jr.",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "80"
+    },
+    {
+      "name": "Gordon Hayward",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "79"
+    },
+    {
+      "name": "Mark Williams",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Defensive Anchor ",
+      "overall": "78"
+    },
+    {
+      "name": "Nick Richards",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Defensive Anchor ",
+      "overall": "78"
+    },
+    {
+      "name": "P.J. Washington",
+      "position": ["PF", "C"],
+      "height": "6'7\"",
+      "overall": "77"
+    },
+    {
+      "name": "Cody Martin",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "75"
+    },
+    {
+      "name": "Sviatoslav Mykhailiuk",
+      "position": ["SG", "SF"],
+      "height": "6'7\"",
+      "overall": "74"
+    },
+    {
+      "name": "Theo Maledon",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "74"
+    },
+    {
+      "name": "James Bouknight",
+      "position": ["SG"],
+      "height": "6'4\"",
+      "overall": "72"
+    },
+    {
+      "name": "Bryce McGowens",
+      "position": ["SG"],
+      "height": "6'6\"",
+      "overall": "72"
+    },
+    {
+      "name": "J.T. Thor",
+      "position": ["PF"],
+      "height": "6'9\"",
+      "overall": "72"
+    },
+    {
+      "name": "Kai Jones",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "72"
+    },
+    {
+      "name": "Kobi Simmons",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "68"
+    },
+    {
+      "name": "Xavier Sneed",
+      "position": ["SG"],
+      "height": "6'5\"",
+      "overall": "68"
+    }
+  ],
+  "chicago bulls": [
+    {
+      "name": "Zach LaVine",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "87",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/lavinza01.jpg"
+    },
+    {
+      "name": "DeMar DeRozan",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "87",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/derozde01.jpg"
+    },
+    {
+      "name": "Nikola Vucevic",
+      "position": ["C"],
+      "height": "6'10\"",
+      "overall": "84"
+    },
+    {
+      "name": "Lonzo Ball",
+      "position": ["PG", "SG"],
+      "height": "6'6\"",
+      "overall": "82",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/balllo01.jpg"
+    },
+    {
+      "name": "Andre Drummond",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/drumman01.jpg"
+    },
+    {
+      "name": "Patrick Williams",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/willipa01.jpg"
+    },
+    {
+      "name": "Javonte Green",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/greenja02.jpg"
+    },
+    {
+      "name": "Alex Caruso",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/carusal01.jpg"
+    },
+    {
+      "name": "Coby White",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/whiteco01.jpg"
+    },
+    {
+      "name": "Derrick Jones Jr.",
+      "position": ["SF", "PF"],
+      "height": "6'6\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/jonesde02.jpg"
+    },
+    {
+      "name": "Jevon Carter",
+      "position": ["SG", "PG"],
+      "height": "6'1\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/carteje01.jpg"
+    },
+    {
+      "name": "Ayo Dosunmu",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/dosunay01.jpg"
+    },
+    {
+      "name": "Terry Taylor",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/taylote01.jpg"
+    },
+    {
+      "name": "Dalen Terry",
+      "position": ["SF", "SG"],
+      "height": "6'7\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/terryda01.jpg"
+    },
+    {
+      "name": "Marko Simonović",
+      "position": ["C"],
+      "height": "/",
+      "overall": "70"
+    },
+    {
+      "name": "Justin Lewis",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/lewisju02.jpg"
+    },
+    {
+      "name": "Carlik Jones",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/jonesca03.jpg"
+    }
+  ],
+  "cleveland cavaliers": [
+    {
+      "name": "Donovan Mitchell",
+      "position": ["SG", "PG"],
+      "height": "6'1\"",
+      "overall": "92",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mitchdo01.jpg"
+    },
+    {
+      "name": "Darius Garland",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "87",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/garlada01.jpg"
+    },
+    {
+      "name": "Evan Mobley",
+      "position": ["PF", "C"],
+      "height": "6'11\"",
+      "overall": "86",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mobleev01.jpg"
+    },
+    {
+      "name": "Jarrett Allen",
+      "position": ["C"],
+      "height": "6'10\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/allenja01.jpg"
+    },
+    {
+      "name": "Caris LeVert",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/leverca01.jpg"
+    },
+    {
+      "name": "Isaac Okoro",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/okorois01.jpg"
+    },
+    {
+      "name": "Max Strus",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/strusma01.jpg"
+    },
+    {
+      "name": "Ricky Rubio",
+      "position": ["PG"],
+      "height": "6'2\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/rubiori01.jpg"
+    },
+    {
+      "name": "Ty Jerome",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/jeromty01.jpg"
+    },
+    {
+      "name": "Robin Lopez",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Back-To-Basket Big ",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/lopezro01.jpg"
+    },
+    {
+      "name": "Raul Neto",
+      "position": ["PG", "SG"],
+      "height": "6'2\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/netora01.jpg"
+    },
+    {
+      "name": "Danny Green",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/greenda02.jpg"
+    },
+    {
+      "name": "Dean Wade",
+      "position": ["PF"],
+      "height": "6'9\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/wadede01.jpg"
+    },
+    {
+      "name": "Georges Niang",
+      "position": ["PF", "SF"],
+      "height": "6'7\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/niangge01.jpg"
+    },
+    {
+      "name": "Damian Jones",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "73"
+    },
+    {
+      "name": "Dylan Windler",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/windldy01.jpg"
+    },
+    {
+      "name": "Sam Merrill",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/merrisa01.jpg"
+    },
+    {
+      "name": "Isaiah Mobley",
+      "position": ["PF"],
+      "height": "6'8\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mobleis01.jpg"
+    },
+    {
+      "name": "Mamadi Diakite",
+      "position": ["C", "PF"],
+      "height": "6'9\"",
+      "overall": "69",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/diakima01.jpg"
+    }
+  ],
+  "dallas mavericks": [
+    {
+      "name": "Luka Doncic",
+      "position": ["PG", "SF"],
+      "height": "6'7\"",
+      "overall": "97"
+    },
+    {
+      "name": "Kyrie Irving",
+      "position": ["PG", "SG"],
+      "height": "6'2\"",
+      "overall": "91",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/irvinky01.jpg"
+    },
+    {
+      "name": "Christian Wood",
+      "position": ["C", "PF"],
+      "height": "6'9\"",
+      "overall": "82",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/woodch01.jpg"
+    },
+    {
+      "name": "Tim Hardaway Jr.",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hardati02.jpg"
+    },
+    {
+      "name": "Jaden Hardy",
+      "position": ["SG"],
+      "height": "6'3\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hardyja02.jpg"
+    },
+    {
+      "name": "Dwight Powell",
+      "position": ["C", "PF"],
+      "height": "6'10\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/poweldw01.jpg"
+    },
+    {
+      "name": "Seth Curry",
+      "position": ["SG", "PG"],
+      "height": "6'1\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/curryse01.jpg"
+    },
+    {
+      "name": "Reggie Bullock",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/bullore01.jpg"
+    },
+    {
+      "name": "JaVale McGee",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Paint Beast ",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mcgeeja01.jpg"
+    },
+    {
+      "name": "Josh Green",
+      "position": ["SF", "SG"],
+      "height": "6'7\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/greenjo02.jpg"
+    },
+    {
+      "name": "Richaun Holmes",
+      "position": ["C"],
+      "height": "6'8\"",
+      "overall": "75"
+    },
+    {
+      "name": "Maxi Kleber",
+      "position": ["PF", "C"],
+      "height": "6'10\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/klebima01.jpg"
+    },
+    {
+      "name": "Markieff Morris",
+      "position": ["PF", "C"],
+      "height": "6'9\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/morrima02.jpg"
+    },
+    {
+      "name": "Frank Ntilikina",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/ntilila01.jpg"
+    },
+    {
+      "name": "Theo Pinson",
+      "position": ["SG", "PG"],
+      "height": "6'7\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/pinsoth01.jpg"
+    },
+    {
+      "name": "Dante Exum",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "71"
+    },
+    {
+      "name": "McKinley Wright IV",
+      "position": ["PG"],
+      "height": "5'11\"",
+      "overall": "68",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/wrighmc01.jpg"
+    },
+    {
+      "name": "A.J. Lawson",
+      "position": ["SG"],
+      "height": "6'6\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/lawsoaj01.jpg"
+    }
+  ],
+  "denver nuggets": [
+    {
+      "name": "Nikola Jokic",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "97"
+    },
+    {
+      "name": "Jamal Murray",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/murraja01.jpg"
+    },
+    {
+      "name": "Michael Porter Jr.",
+      "position": ["SF", "SG"],
+      "height": "6'10\"",
+      "overall": "83",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/portemi01.jpg"
+    },
+    {
+      "name": "Aaron Gordon",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "83",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/gordoaa01.jpg"
+    },
+    {
+      "name": "Kentavious Caldwell-Pope",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/caldwke01.jpg"
+    },
+    {
+      "name": "Reggie Jackson",
+      "position": ["PG", "SG"],
+      "height": "6'2\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/jacksre01.jpg"
+    },
+    {
+      "name": "Zeke Nnaji",
+      "position": ["C", "PF"],
+      "height": "6'9\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/nnajize01.jpg"
+    },
+    {
+      "name": "Christian Braun",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/braunch01.jpg"
+    },
+    {
+      "name": "Ish Smith",
+      "position": ["PG"],
+      "extraData": " PG | 6'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| 3PT Playmaker ",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/smithis01.jpg"
+    },
+    {
+      "name": "Justin Holiday",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/holidju01.jpg"
+    },
+    {
+      "name": "Vlatko Cancar",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "73"
+    },
+    {
+      "name": "DeAndre Jordan",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/jordade01.jpg"
+    },
+    {
+      "name": "Peyton Watson",
+      "position": ["SF", "SG"],
+      "height": "6'7\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/watsope01.jpg"
+    },
+    {
+      "name": "Collin Gillespie",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "68",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/gilleco01.jpg"
+    }
+  ],
+  "detroit pistons": [
+    {
+      "name": "Cade Cunningham",
+      "position": ["PG", "SG"],
+      "height": "6'7\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/cunnica01.jpg"
+    },
+    {
+      "name": "Bojan Bogdanovic",
+      "position": ["PF", "SF"],
+      "height": "6'7\"",
+      "overall": "82"
+    },
+    {
+      "name": "Jaden Ivey",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "81",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/iveyja01.jpg"
+    },
+    {
+      "name": "Jalen Duren",
+      "position": ["PF", "C"],
+      "height": "6'11\"",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/durenja01.jpg"
+    },
+    {
+      "name": "James Wiseman",
+      "position": ["C"],
+      "height": "/",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/wisemja01.jpg"
+    },
+    {
+      "name": "Monte Morris",
+      "position": ["PG", "SG"],
+      "height": "6'2\"",
+      "overall": "79"
+    },
+    {
+      "name": "Marvin Bagley III",
+      "position": ["PF", "C"],
+      "height": "6'10\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/baglema01.jpg"
+    },
+    {
+      "name": "Isaiah Stewart",
+      "position": ["C", "PF"],
+      "height": "6'8\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/stewais01.jpg"
+    },
+    {
+      "name": "Hamidou Diallo",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/diallha01.jpg"
+    },
+    {
+      "name": "Alec Burks",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/burksal01.jpg"
+    },
+    {
+      "name": "Joe Harris",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/harrijo01.jpg"
+    },
+    {
+      "name": "Killian Hayes",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hayeski01.jpg"
+    },
+    {
+      "name": "Isaiah Livers",
+      "position": ["SG", "PF"],
+      "height": "6'6\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/liveris01.jpg"
+    },
+    {
+      "name": "Rodney McGruder",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mcgruro01.jpg"
+    },
+    {
+      "name": "Jared Rhoden",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "69",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/rhodeja01.jpg"
+    },
+    {
+      "name": "Buddy Boeheim",
+      "position": ["SG"],
+      "height": "6'6\"",
+      "overall": "68",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/boehebu01.jpg"
+    }
+  ],
+  "golden state warriors": [
+    {
+      "name": "Stephen Curry",
+      "position": ["PG", "SG"],
+      "height": "6'2\"",
+      "overall": "96",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/curryst01.jpg"
+    },
+    {
+      "name": "Chris Paul",
+      "position": ["PG"],
+      "extraData": " PG | 6'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| 2-Way Playshot ",
+      "overall": "87"
+    },
+    {
+      "name": "Klay Thompson",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "86",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/thompkl01.jpg"
+    },
+    {
+      "name": "Draymond Green",
+      "position": ["PF", "C"],
+      "height": "6'6\"",
+      "overall": "83",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/greendr01.jpg"
+    },
+    {
+      "name": "Andrew Wiggins",
+      "position": ["SF", "SG"],
+      "height": "6'7\"",
+      "overall": "82",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/wiggian01.jpg"
+    },
+    {
+      "name": "Jonathan Kuminga",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/kuminjo01.jpg"
+    },
+    {
+      "name": "Kevon Looney",
+      "position": ["C"],
+      "height": "6'9\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/looneke01.jpg"
+    },
+    {
+      "name": "Gary Payton II",
+      "position": ["SG", "PG"],
+      "height": "6'2\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/paytoga02.jpg"
+    },
+    {
+      "name": "JaMychal Green",
+      "position": ["PF", "C"],
+      "height": "6'9\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/greenja01.jpg"
+    },
+    {
+      "name": "Andre Iguodala",
+      "position": ["PF", "SF"],
+      "height": "6'6\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/iguodan01.jpg"
+    },
+    {
+      "name": "Cory Joseph",
+      "position": ["PG", "SG"],
+      "height": "6'3\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/josepco01.jpg"
+    },
+    {
+      "name": "Moses Moody",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/moodymo01.jpg"
+    },
+    {
+      "name": "Anthony Lamb",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/lamban01.jpg"
+    },
+    {
+      "name": "Lester Quiñones",
+      "position": ["SG"],
+      "height": "6'5\"",
+      "overall": "67"
+    }
+  ],
+  "houston rockets": [
+    {
+      "name": "Jalen Green",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/greenja05.jpg"
+    },
+    {
+      "name": "Fred VanVleet",
+      "position": ["SG"],
+      "height": "/",
+      "overall": "83"
+    },
+    {
+      "name": "Alperen Sengun",
+      "position": ["C", "PF"],
+      "height": "6'11\"",
+      "overall": "83"
+    },
+    {
+      "name": "Kevin Porter Jr.",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "81",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/porteke02.jpg"
+    },
+    {
+      "name": "Jabari Smith Jr.",
+      "position": ["PF"],
+      "height": "6'11\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/smithja05.jpg"
+    },
+    {
+      "name": "Tari Eason",
+      "position": ["SF", "PF"],
+      "height": "6'8\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/easonta01.jpg"
+    },
+    {
+      "name": "Dillon Brooks",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/brookdi01.jpg"
+    },
+    {
+      "name": "Jae’Sean Tate",
+      "position": ["SF", "PF"],
+      "height": "6'5\"",
+      "overall": "77"
+    },
+    {
+      "name": "Jeff Green",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/greenje02.jpg"
+    },
+    {
+      "name": "Jock Landale",
+      "position": ["C", "PF"],
+      "height": "6'11\"",
+      "overall": "75"
+    },
+    {
+      "name": "Frank Kaminsky",
+      "position": ["PF"],
+      "height": "/",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/kaminfr01.jpg"
+    },
+    {
+      "name": "Boban Marjanovic",
+      "position": ["C"],
+      "height": "7'4\"",
+      "overall": "73"
+    },
+    {
+      "name": "Willie Cauley-Stein",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Paint Protector ",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/caulewi01.jpg"
+    },
+    {
+      "name": "D.J. Augustin",
+      "position": ["PG"],
+      "height": "5'11\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/augusdj01.jpg"
+    },
+    {
+      "name": "Daishen Nix",
+      "position": ["PG"],
+      "height": "6'4\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/nixda01.jpg"
+    },
+    {
+      "name": "Trevor Hudgins",
+      "position": ["PG"],
+      "extraData": " PG | 6'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| 3-Level Scorer ",
+      "overall": "68",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hudgitr01.jpg"
+    },
+    {
+      "name": "Darius Days",
+      "position": ["PF", "SF"],
+      "height": "6'7\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/daysda01.jpg"
+    }
+  ],
+  "indiana pacers": [
+    {
+      "name": "Tyrese Haliburton",
+      "position": ["SG", "PG"],
+      "height": "6'5\"",
+      "overall": "89",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/halibty01.jpg"
+    },
+    {
+      "name": "Myles Turner",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "85",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/turnemy01.jpg"
+    },
+    {
+      "name": "Buddy Hield",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hieldbu01.jpg"
+    },
+    {
+      "name": "Bennedict Mathurin",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mathube01.jpg"
+    },
+    {
+      "name": "T.J. McConnell",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mccontj01.jpg"
+    },
+    {
+      "name": "Obi Toppin",
+      "position": ["PF", "C"],
+      "height": "6'9\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/toppiob01.jpg"
+    },
+    {
+      "name": "Andrew Nembhard",
+      "position": ["PG"],
+      "height": "6'3\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/nembhan01.jpg"
+    },
+    {
+      "name": "Bruce Brown Jr.",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "77"
+    },
+    {
+      "name": "Isaiah Jackson",
+      "position": ["C", "PF"],
+      "height": "6'9\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/jacksis01.jpg"
+    },
+    {
+      "name": "Jalen Smith",
+      "position": ["C", "PF"],
+      "height": "6'9\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/smithja04.jpg"
+    },
+    {
+      "name": "Jordan Nwora",
+      "position": ["SF", "PF"],
+      "height": "6'9\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/nworajo01.jpg"
+    },
+    {
+      "name": "Aaron Nesmith",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/nesmiaa01.jpg"
+    },
+    {
+      "name": "Daniel Theis",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/theisda01.jpg"
+    },
+    {
+      "name": "George Hill",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hillge01.jpg"
+    },
+    {
+      "name": "James Johnson",
+      "position": ["PF", "C"],
+      "height": "6'7\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/johnsja01.jpg"
+    },
+    {
+      "name": "Kendall Brown",
+      "position": ["SF"],
+      "height": "6'7\"",
+      "overall": "69",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/brownke03.jpg"
+    },
+    {
+      "name": "Gabe York",
+      "position": ["PG", "SG"],
+      "height": "6'3\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/yorkga01.jpg"
+    }
+  ],
+  "los angeles clippers": [
+    {
+      "name": "Kawhi Leonard",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "92",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/leonaka01.jpg"
+    },
+    {
+      "name": "Paul George",
+      "position": ["SF", "SG"],
+      "height": "6'8\"",
+      "overall": "89",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/georgpa01.jpg"
+    },
+    {
+      "name": "Russell Westbrook",
+      "position": ["PG", "SG"],
+      "height": "6'3\"",
+      "overall": "81",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/westbru01.jpg"
+    },
+    {
+      "name": "Ivica Zubac",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Paint Beast ",
+      "overall": "81",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/zubaciv01.jpg"
+    },
+    {
+      "name": "Mason Plumlee",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Glass-Cleaning Finisher ",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/plumlma01.jpg"
+    },
+    {
+      "name": "Norman Powell",
+      "position": ["SF", "SG"],
+      "height": "6'4\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/powelno01.jpg"
+    },
+    {
+      "name": "Kenyon Martin Jr.",
+      "position": ["PF", "C"],
+      "height": "6'7\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/martike04.jpg"
+    },
+    {
+      "name": "Bones Hyland",
+      "position": ["SG", "PG"],
+      "height": "6'2\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hylanbo01.jpg"
+    },
+    {
+      "name": "Robert Covington",
+      "position": ["PF", "C"],
+      "height": "6'7\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/covinro01.jpg"
+    },
+    {
+      "name": "Terance Mann",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mannte01.jpg"
+    },
+    {
+      "name": "Marcus Morris Sr.",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "75"
+    },
+    {
+      "name": "Nicolas Batum",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/batumni01.jpg"
+    },
+    {
+      "name": "Brandon Boston Jr.",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/bostobr01.jpg"
+    },
+    {
+      "name": "Amir Coffey",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/coffeam01.jpg"
+    },
+    {
+      "name": "Jason Preston",
+      "position": ["PG", "SG"],
+      "height": "6'3\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/prestja01.jpg"
+    },
+    {
+      "name": "Moussa Diabate",
+      "position": ["PF", "C"],
+      "height": "6'10\"",
+      "overall": "69"
+    },
+    {
+      "name": "Xavier Moon",
+      "position": ["PG"],
+      "height": "6'2\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/moonxa01.jpg"
+    }
+  ],
+  "los angeles lakers": [
+    {
+      "name": "LeBron James",
+      "position": ["SF", "PG"],
+      "height": "6'9\"",
+      "overall": "97",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/jamesle01.jpg"
+    },
+    {
+      "name": "Anthony Davis",
+      "position": ["PF", "C"],
+      "height": "6'10\"",
+      "overall": "94",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/davisan02.jpg"
+    },
+    {
+      "name": "D’Angelo Russell",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "83"
+    },
+    {
+      "name": "Austin Reaves",
+      "position": ["SG"],
+      "height": "6'5\"",
+      "overall": "81",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/reaveau01.jpg"
+    },
+    {
+      "name": "Jarred Vanderbilt",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/vandeja01.jpg"
+    },
+    {
+      "name": "Rui Hachimura",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hachiru01.jpg"
+    },
+    {
+      "name": "Malik Beasley",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/beaslma01.jpg"
+    },
+    {
+      "name": "Gabe Vincent",
+      "position": ["SG", "PG"],
+      "height": "6'3\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/vincega01.jpg"
+    },
+    {
+      "name": "Jaxson Hayes",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| 2-Way Interior Finisher ",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hayesja02.jpg"
+    },
+    {
+      "name": "Taurean Prince",
+      "position": ["PF", "SF"],
+      "height": "6'6\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/princta02.jpg"
+    },
+    {
+      "name": "Cam Reddish",
+      "position": ["SF", "SG"],
+      "height": "6'7\"",
+      "overall": "75"
+    },
+    {
+      "name": "Wenyen Gabriel",
+      "position": ["PF", "SF"],
+      "height": "6'9\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/gabriwe01.jpg"
+    },
+    {
+      "name": "Tristan Thompson",
+      "position": ["C"],
+      "height": "6'9\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/thomptr01.jpg"
+    },
+    {
+      "name": "Max Christie",
+      "position": ["SG"],
+      "height": "6'6\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/chrisma02.jpg"
+    },
+    {
+      "name": "Scotty Pippen Jr.",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "68",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/pippesc02.jpg"
+    },
+    {
+      "name": "Cole Swider",
+      "position": ["PF"],
+      "height": "6'9\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/swideco01.jpg"
+    }
+  ],
+  "memphis grizzlies": [
+    {
+      "name": "Ja Morant",
+      "position": ["PG"],
+      "height": "6'3\"",
+      "overall": "92",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/moranja01.jpg"
+    },
+    {
+      "name": "Jaren Jackson Jr.",
+      "position": ["PF", "C"],
+      "height": "6'10\"",
+      "overall": "87",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/jacksja02.jpg"
+    },
+    {
+      "name": "Desmond Bane",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "85",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/banede01.jpg"
+    },
+    {
+      "name": "Steven Adams",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "82",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/adamsst01.jpg"
+    },
+    {
+      "name": "Marcus Smart",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "82"
+    },
+    {
+      "name": "Brandon Clarke",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/clarkbr01.jpg"
+    },
+    {
+      "name": "Xavier Tillman",
+      "position": ["C", "PF"],
+      "height": "6'7\"",
+      "overall": "78"
+    },
+    {
+      "name": "Santi Aldama",
+      "position": ["C"],
+      "height": "/",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/aldamsa01.jpg"
+    },
+    {
+      "name": "Luke Kennard",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/kennalu01.jpg"
+    },
+    {
+      "name": "Derrick Rose",
+      "position": ["PG", "SG"],
+      "height": "6'3\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/rosede01.jpg"
+    },
+    {
+      "name": "Josh Christopher",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/chrisjo01.jpg"
+    },
+    {
+      "name": "David Roddy",
+      "position": ["SF"],
+      "height": "6'4\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/roddyda01.jpg"
+    },
+    {
+      "name": "Ziaire Williams",
+      "position": ["SF", "PF"],
+      "height": "6'9\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/willizi02.jpg"
+    },
+    {
+      "name": "Jake LaRavia",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/laravja01.jpg"
+    },
+    {
+      "name": "John Konchar",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/konchjo01.jpg"
+    },
+    {
+      "name": "Kenneth Lofton Jr.",
+      "position": ["PF"],
+      "height": "6'6\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/loftoke01.jpg"
+    },
+    {
+      "name": "Vince Williams Jr.",
+      "position": ["SG"],
+      "height": "6'4\"",
+      "overall": "69",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/willivi01.jpg"
+    },
+    {
+      "name": "Jacob Gilyard",
+      "position": ["PG"],
+      "height": "5'9\"",
+      "overall": "69",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/gilyaja01.jpg"
+    }
+  ],
+  "miami heat": [
+    {
+      "name": "Jimmy Butler",
+      "position": ["SF", "SG"],
+      "height": "6'7\"",
+      "overall": "93",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/butleji01.jpg"
+    },
+    {
+      "name": "Bam Adebayo",
+      "position": ["C"],
+      "height": "6'9\"",
+      "overall": "87",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/adebaba01.jpg"
+    },
+    {
+      "name": "Tyler Herro",
+      "position": ["SG", "PG"],
+      "height": "6'5\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/herroty01.jpg"
+    },
+    {
+      "name": "Kyle Lowry",
+      "position": ["PG"],
+      "extraData": " PG | 6'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| 2-Way Inside-Out Playmaker ",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/lowryky01.jpg"
+    },
+    {
+      "name": "Kevin Love",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/loveke01.jpg"
+    },
+    {
+      "name": "Thomas Bryant",
+      "position": ["C", "PF"],
+      "height": "6'10\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/bryanth01.jpg"
+    },
+    {
+      "name": "Caleb Martin",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/martica02.jpg"
+    },
+    {
+      "name": "Josh Richardson",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/richajo01.jpg"
+    },
+    {
+      "name": "Omer Yurtseven",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/yurtsom01.jpg"
+    },
+    {
+      "name": "Nikola Jovic",
+      "position": ["SF", "PF"],
+      "height": "6'10\"",
+      "overall": "74"
+    },
+    {
+      "name": "Duncan Robinson",
+      "position": ["SG", "SF"],
+      "height": "6'7\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/robindu01.jpg"
+    },
+    {
+      "name": "Orlando Robinson",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Glass Cleaner ",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/robinor01.jpg"
+    },
+    {
+      "name": "Udonis Haslem",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hasleud01.jpg"
+    },
+    {
+      "name": "Jamal Cain",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/cainja01.jpg"
+    },
+    {
+      "name": "Haywood Highsmith",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/highsha01.jpg"
+    },
+    {
+      "name": "Jamaree Bouyea",
+      "position": ["PG"],
+      "height": "6'2\"",
+      "overall": "67"
+    },
+    {
+      "name": "Dru Smith",
+      "position": ["PG"],
+      "height": "6'3\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/smithdr01.jpg"
+    }
+  ],
+  "milwaukee bucks": [
+    {
+      "name": "Giannis Antetokounmpo",
+      "position": ["PF"],
+      "height": "/",
+      "overall": "97",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/antetgi01.jpg"
+    },
+    {
+      "name": "Jrue Holiday",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "88",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/holidjr01.jpg"
+    },
+    {
+      "name": "Khris Middleton",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "86",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/middlkh01.jpg"
+    },
+    {
+      "name": "Brook Lopez",
+      "position": ["C"],
+      "height": "7'1\"",
+      "overall": "85",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/lopezbr01.jpg"
+    },
+    {
+      "name": "Bobby Portis",
+      "position": ["C", "PF"],
+      "height": "6'11\"",
+      "overall": "82",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/portibo01.jpg"
+    },
+    {
+      "name": "Jae Crowder",
+      "position": ["PF", "SF"],
+      "height": "6'6\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/crowdja01.jpg"
+    },
+    {
+      "name": "Pat Connaughton",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/connapa01.jpg"
+    },
+    {
+      "name": "Grayson Allen",
+      "position": ["SG"],
+      "height": "6'4\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/allengr01.jpg"
+    },
+    {
+      "name": "Goran Dragic",
+      "position": ["PG"],
+      "height": "6'4\"",
+      "overall": "73"
+    },
+    {
+      "name": "Wesley Matthews",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/matthwe02.jpg"
+    },
+    {
+      "name": "MarJon Beauchamp",
+      "position": ["SG", "SF"],
+      "height": "6'7\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/beaucma01.jpg"
+    },
+    {
+      "name": "Meyers Leonard",
+      "position": ["PF"],
+      "height": "/",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/leoname01.jpg"
+    },
+    {
+      "name": "Thanasis Antetokounmpo",
+      "position": ["PF", "SF"],
+      "height": "6'7\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/antetth01.jpg"
+    },
+    {
+      "name": "A.J. Green",
+      "position": ["SG"],
+      "height": "6'5\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/greenaj01.jpg"
+    },
+    {
+      "name": "Lindell Wigginton",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/wiggili01.jpg"
+    }
+  ],
+  "minnesota timberwolves": [
+    {
+      "name": "Anthony Edwards",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "86",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/edwaran01.jpg"
+    },
+    {
+      "name": "Karl-Anthony Towns",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| 3-Level Scorer ",
+      "overall": "86",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/townska01.jpg"
+    },
+    {
+      "name": "Rudy Gobert",
+      "position": ["C"],
+      "height": "7'1\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/goberru01.jpg"
+    },
+    {
+      "name": "Mike Conley",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/conlemi01.jpg"
+    },
+    {
+      "name": "Naz Reid",
+      "position": ["C", "PF"],
+      "height": "6'9\"",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/reidna01.jpg"
+    },
+    {
+      "name": "Jaden McDaniels",
+      "position": ["PF", "SF"],
+      "height": "6'9\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mcdanja02.jpg"
+    },
+    {
+      "name": "Kyle Anderson",
+      "position": ["PF", "SF"],
+      "height": "6'9\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/anderky01.jpg"
+    },
+    {
+      "name": "Jaylen Nowell",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/nowelja01.jpg"
+    },
+    {
+      "name": "Shake Milton",
+      "position": ["SG", "PG"],
+      "height": "6'5\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/miltosh01.jpg"
+    },
+    {
+      "name": "Nickeil Alexander-Walker",
+      "position": ["SG", "PG"],
+      "height": "6'5\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/alexani01.jpg"
+    },
+    {
+      "name": "Austin Rivers",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/riverau01.jpg"
+    },
+    {
+      "name": "Jordan McLaughlin",
+      "position": ["PG"],
+      "height": "/",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mclaujo01.jpg"
+    },
+    {
+      "name": "Troy Brown Jr.",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/browntr01.jpg"
+    },
+    {
+      "name": "Nathan Knight",
+      "position": ["C", "PF"],
+      "height": "6'8\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/knighna01.jpg"
+    },
+    {
+      "name": "Luka Garza",
+      "position": ["C", "PF"],
+      "height": "6'10\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/garzalu01.jpg"
+    },
+    {
+      "name": "Wendell Moore Jr.",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/moorewe01.jpg"
+    },
+    {
+      "name": "Matt Ryan",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/ryanma01.jpg"
+    },
+    {
+      "name": "Josh Minott",
+      "position": ["SF"],
+      "height": "6'8\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/minotjo01.jpg"
+    }
+  ],
+  "new orleans pelicans": [
+    {
+      "name": "Zion Williamson",
+      "position": ["PF", "C"],
+      "height": "6'6\"",
+      "overall": "92",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/willizi01.jpg"
+    },
+    {
+      "name": "Brandon Ingram",
+      "position": ["SF", "PF"],
+      "height": "6'8\"",
+      "overall": "87",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/ingrabr01.jpg"
+    },
+    {
+      "name": "C.J. McCollum",
+      "position": ["SG", "PG"],
+      "height": "6'3\"",
+      "overall": "84"
+    },
+    {
+      "name": "Jonas Valanciunas",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "83"
+    },
+    {
+      "name": "Trey Murphy",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "80"
+    },
+    {
+      "name": "Herbert Jones",
+      "position": ["SF", "SG"],
+      "height": "6'7\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/joneshe01.jpg"
+    },
+    {
+      "name": "Larry Nance Jr.",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/nancela02.jpg"
+    },
+    {
+      "name": "Jose Alvarado",
+      "position": ["PG"],
+      "extraData": " PG | 6'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| 2-Way Inside-Out Scorer ",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/alvarjo01.jpg"
+    },
+    {
+      "name": "Willy Hernangomez",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "76"
+    },
+    {
+      "name": "Dyson Daniels",
+      "position": ["SG"],
+      "height": "6'7\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/daniedy01.jpg"
+    },
+    {
+      "name": "Cody Zeller",
+      "position": ["C"],
+      "height": "/",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/zelleco01.jpg"
+    },
+    {
+      "name": "Naji Marshall",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/marshna01.jpg"
+    },
+    {
+      "name": "Kira Lewis Jr.",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/lewiski01.jpg"
+    },
+    {
+      "name": "E.J. Liddell",
+      "position": ["PF", "SF"],
+      "height": "6'6\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/liddeej01.jpg"
+    },
+    {
+      "name": "Garrett Temple",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/templga01.jpg"
+    },
+    {
+      "name": "Dereon Seabron",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/seabrde01.jpg"
+    }
+  ],
+  "new york knicks": [
+    {
+      "name": "Julius Randle",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "87",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/randlju01.jpg"
+    },
+    {
+      "name": "Jalen Brunson",
+      "position": ["PG"],
+      "height": "6'2\"",
+      "overall": "87",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/brunsja01.jpg"
+    },
+    {
+      "name": "R.J. Barrett",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "82"
+    },
+    {
+      "name": "Immanuel Quickley",
+      "position": ["SG", "PG"],
+      "height": "6'2\"",
+      "overall": "82",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/quickim01.jpg"
+    },
+    {
+      "name": "Mitchell Robinson",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Defensive Anchor ",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/robinmi01.jpg"
+    },
+    {
+      "name": "Josh Hart",
+      "position": ["SF", "SG"],
+      "height": "6'4\"",
+      "overall": "79",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hartjo01.jpg"
+    },
+    {
+      "name": "Quentin Grimes",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/grimequ01.jpg"
+    },
+    {
+      "name": "Donte DiVincenzo",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/divindo01.jpg"
+    },
+    {
+      "name": "Jericho Sims",
+      "position": ["PF"],
+      "height": "6'10\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/simsje01.jpg"
+    },
+    {
+      "name": "Isaiah Hartenstein",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Glass-Cleaning Finisher ",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/harteis01.jpg"
+    },
+    {
+      "name": "Evan Fournier",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/fournev01.jpg"
+    },
+    {
+      "name": "Isaiah Roby",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/robyis01.jpg"
+    },
+    {
+      "name": "Miles McBride",
+      "position": ["SG", "PG"],
+      "height": "6'2\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mcbrimi01.jpg"
+    },
+    {
+      "name": "Duane Washington Jr.",
+      "position": ["PG", "SG"],
+      "height": "6'3\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/washidu02.jpg"
+    },
+    {
+      "name": "DaQuan Jeffries",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/jeffrda01.jpg"
+    },
+    {
+      "name": "Trevor Keels",
+      "position": ["SG"],
+      "height": "6'4\"",
+      "overall": "68",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/keelstr01.jpg"
+    }
+  ],
+  "oklahoma city thunder": [
+    {
+      "name": "Shai Gilgeous-Alexander",
+      "position": ["PG", "SG"],
+      "height": "6'6\"",
+      "overall": "94",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/gilgesh01.jpg"
+    },
+    {
+      "name": "Josh Giddey",
+      "position": ["SG", "PG"],
+      "height": "6'8\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/giddejo01.jpg"
+    },
+    {
+      "name": "Jalen Williams",
+      "position": ["SG"],
+      "height": "6'5\"",
+      "overall": "82",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/willija06.jpg"
+    },
+    {
+      "name": "Luguentz Dort",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/dortlu01.jpg"
+    },
+    {
+      "name": "Isaiah Joe",
+      "position": ["SG", "SF"],
+      "height": "6'3\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/joeis01.jpg"
+    },
+    {
+      "name": "Chet Holmgren",
+      "position": ["PF", "C"],
+      "height": "7'1\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/holmgch01.jpg"
+    },
+    {
+      "name": "Aleksej Pokusevski",
+      "position": ["SF"],
+      "height": "/",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/pokusal01.jpg"
+    },
+    {
+      "name": "Kenrich Williams",
+      "position": ["SF", "PG"],
+      "height": "6'6\"",
+      "overall": "77",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/willike04.jpg"
+    },
+    {
+      "name": "Victor Oladipo",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/oladivi01.jpg"
+    },
+    {
+      "name": "Dario Saric",
+      "position": ["C", "PF"],
+      "height": "6'10\"",
+      "overall": "76"
+    },
+    {
+      "name": "Jaylin Williams",
+      "position": ["PF"],
+      "height": "6'9\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/willija07.jpg"
+    },
+    {
+      "name": "Tre Mann",
+      "position": ["PG", "SG"],
+      "height": "6'3\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/manntr01.jpg"
+    },
+    {
+      "name": "Jeremiah Robinson-Earl",
+      "position": ["PF"],
+      "height": "6'8\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/robinje02.jpg"
+    },
+    {
+      "name": "Aaron Wiggins",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/wiggiaa01.jpg"
+    },
+    {
+      "name": "Patty Mills",
+      "position": ["PG"],
+      "extraData": " PG | 6'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Shot Creator ",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/millspa02.jpg"
+    },
+    {
+      "name": "Lindy Waters III",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/waterli01.jpg"
+    },
+    {
+      "name": "Ousmane Dieng",
+      "position": ["PF", "C"],
+      "height": "6'9\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/diengou01.jpg"
+    },
+    {
+      "name": "Jared Butler",
+      "position": ["SG", "PG"],
+      "height": "6'3\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/butleja02.jpg"
+    },
+    {
+      "name": "Davis Bertans",
+      "position": ["PF"],
+      "height": "6'10\"",
+      "overall": "73"
+    },
+    {
+      "name": "Jack White",
+      "position": ["SF"],
+      "height": "6'7\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/whiteja03.jpg"
+    },
+    {
+      "name": "Olivier Sarr",
+      "position": ["C", "PF"],
+      "height": "6'11\"",
+      "overall": "67",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/sarrol01.jpg"
+    }
+  ],
+  "orlando magic": [
+    {
+      "name": "Paolo Banchero",
+      "position": ["PF"],
+      "height": "6'10\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/banchpa01.jpg"
+    },
+    {
+      "name": "Franz Wagner",
+      "position": ["SF", "PF"],
+      "height": "6'10\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/wagnefr01.jpg"
+    },
+    {
+      "name": "Wendell Carter Jr.",
+      "position": ["C"],
+      "height": "6'10\"",
+      "overall": "82",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/cartewe01.jpg"
+    },
+    {
+      "name": "Markelle Fultz",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "82",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/fultzma01.jpg"
+    },
+    {
+      "name": "Cole Anthony",
+      "position": ["PG", "SG"],
+      "height": "6'3\"",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/anthoco01.jpg"
+    },
+    {
+      "name": "Jonathan Isaac",
+      "position": ["PF", "SF"],
+      "height": "6'10\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/isaacjo01.jpg"
+    },
+    {
+      "name": "Moritz Wagner",
+      "position": ["PF", "C"],
+      "height": "6'11\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/wagnemo01.jpg"
+    },
+    {
+      "name": "Bol Bol",
+      "position": ["C", "PF"],
+      "height": "7'2\"",
+      "overall": "78",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/bolbo01.jpg"
+    },
+    {
+      "name": "Jalen Suggs",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/suggsja01.jpg"
+    },
+    {
+      "name": "Joe Ingles",
+      "position": ["SF", "SG"],
+      "height": "6'9\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/inglejo01.jpg"
+    },
+    {
+      "name": "Goga Bitadze",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/bitadgo01.jpg"
+    },
+    {
+      "name": "Gary Harris",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/harriga01.jpg"
+    },
+    {
+      "name": "Chuma Okeke",
+      "position": ["PF", "SF"],
+      "height": "6'6\"",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/okekech01.jpg"
+    },
+    {
+      "name": "Caleb Houstan",
+      "position": ["SF", "SG"],
+      "height": "6'8\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/houstca01.jpg"
+    },
+    {
+      "name": "Michael Carter-Williams",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/cartemi01.jpg"
+    },
+    {
+      "name": "Admiral Schofield",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "70",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/schofad01.jpg"
+    },
+    {
+      "name": "Kevon Harris",
+      "position": ["SG"],
+      "height": "6'6\"",
+      "overall": "69",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/harrike01.jpg"
+    }
+  ],
+  "philadelphia 76ers": [
+    {
+      "name": "Joel Embiid",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| 2-Way 3-Level Scorer ",
+      "overall": "97",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/embiijo01.jpg"
+    },
+    {
+      "name": "James Harden",
+      "position": ["SG", "PG"],
+      "height": "6'5\"",
+      "overall": "90",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/hardeja01.jpg"
+    },
+    {
+      "name": "Tyrese Maxey",
+      "position": ["PG", "SG"],
+      "height": "6'2\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/maxeyty01.jpg"
+    },
+    {
+      "name": "Tobias Harris",
+      "position": ["PF", "SF"],
+      "height": "6'7\"",
+      "overall": "81",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/harrito02.jpg"
+    },
+    {
+      "name": "De’Anthony Melton",
+      "position": ["SG", "PG"],
+      "height": "6'2\"",
+      "overall": "78"
+    },
+    {
+      "name": "Patrick Beverley",
+      "position": ["PG", "SG"],
+      "height": "6'1\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/beverpa01.jpg"
+    },
+    {
+      "name": "Montrezl Harrell",
+      "position": ["C", "PF"],
+      "height": "6'7\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/harremo01.jpg"
+    },
+    {
+      "name": "Paul Reed",
+      "position": ["PF", "C"],
+      "height": "6'9\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/reedpa01.jpg"
+    },
+    {
+      "name": "P.J. Tucker",
+      "position": ["PF", "C"],
+      "height": "6'5\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/tuckepj01.jpg"
+    },
+    {
+      "name": "Dewayne Dedmon",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Defensive Anchor ",
+      "overall": "74",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/dedmode01.jpg"
+    },
+    {
+      "name": "Danuel House Jr.",
+      "position": ["SF", "PF"],
+      "height": "6'6\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/houseda01.jpg"
+    },
+    {
+      "name": "Jaden Springer",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/sprinja01.jpg"
+    },
+    {
+      "name": "Furkan Korkmaz",
+      "position": ["SF", "SG"],
+      "height": "6'7\"",
+      "overall": "71",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/korkmfu01.jpg"
+    },
+    {
+      "name": "Mac McClung",
+      "position": ["PG"],
+      "height": "6'2\"",
+      "overall": "69",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mccluma01.jpg"
+    }
+  ],
+  "phoenix suns": [
+    {
+      "name": "Kevin Durant",
+      "position": ["PF", "SF"],
+      "height": "6'10\"",
+      "overall": "96"
+    },
+    {
+      "name": "Devin Booker",
+      "position": ["SG", "PG"],
+      "height": "6'5\"",
+      "overall": "92"
+    },
+    {
+      "name": "Bradley Beal",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "87"
+    },
+    {
+      "name": "Deandre Ayton",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "84"
+    },
+    {
+      "name": "Josh Okogie",
+      "position": ["SF", "PF"],
+      "height": "6'4\"",
+      "overall": "78"
+    },
+    {
+      "name": "T.J. Warren",
+      "position": ["SF", "PF"],
+      "height": "6'8\"",
+      "overall": "77"
+    },
+    {
+      "name": "Cameron Payne",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "77"
+    },
+    {
+      "name": "Drew Eubanks",
+      "position": ["C", "PF"],
+      "height": "6'10\"",
+      "overall": "77"
+    },
+    {
+      "name": "Darius Bazley",
+      "position": ["PF"],
+      "height": "6'9\"",
+      "overall": "76"
+    },
+    {
+      "name": "Terrence Ross",
+      "position": ["SG", "SF"],
+      "height": "6'6\"",
+      "overall": "76"
+    },
+    {
+      "name": "Chimezie Metu",
+      "position": ["PF", "C"],
+      "height": "6'9\"",
+      "overall": "76"
+    },
+    {
+      "name": "Keita Bates-Diop",
+      "position": ["SF", "PF"],
+      "height": "6'8\"",
+      "overall": "76"
+    },
+    {
+      "name": "Eric Gordon",
+      "position": ["SG", "SF"],
+      "height": "6'3\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/gordoer01.jpg"
+    },
+    {
+      "name": "Torrey Craig",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "75"
+    },
+    {
+      "name": "Yuta Watanabe",
+      "position": ["SF", "PF"],
+      "height": "6'8\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/watanyu01.jpg"
+    },
+    {
+      "name": "Damion Lee",
+      "position": ["SG", "PG"],
+      "height": "6'5\"",
+      "overall": "75"
+    },
+    {
+      "name": "Bismack Biyombo",
+      "position": ["C"],
+      "height": "6'8\"",
+      "overall": "75"
+    },
+    {
+      "name": "Jordan Goodwin",
+      "position": ["SG", "PG"],
+      "height": "6'3\"",
+      "overall": "74"
+    },
+    {
+      "name": "Saben Lee",
+      "position": ["PG"],
+      "height": "6'2\"",
+      "overall": "73"
+    },
+    {
+      "name": "Ish Wainright",
+      "position": ["SG", "PG"],
+      "height": "6'5\"",
+      "overall": "73"
+    },
+    {
+      "name": "Isaiah Todd",
+      "position": ["PF"],
+      "height": "6'9\"",
+      "overall": "70"
+    }
+  ],
+  "portland trail blazers": [
+    {
+      "name": "Damian Lillard",
+      "position": ["PG"],
+      "height": "6'2\"",
+      "overall": "95"
+    },
+    {
+      "name": "Anfernee Simons",
+      "position": ["PG", "SG"],
+      "height": "6'3\"",
+      "overall": "83"
+    },
+    {
+      "name": "Jusuf Nurkic",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| 2-Way Inside-Out Scorer ",
+      "overall": "82"
+    },
+    {
+      "name": "Jerami Grant",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "82"
+    },
+    {
+      "name": "Shaedon Sharpe",
+      "position": ["SG"],
+      "height": "6'5\"",
+      "overall": "78"
+    },
+    {
+      "name": "Matisse Thybulle",
+      "position": ["SF", "PF"],
+      "height": "6'5\"",
+      "overall": "76"
+    },
+    {
+      "name": "Nassir Little",
+      "position": ["SF", "PF"],
+      "height": "6'5\"",
+      "overall": "75"
+    },
+    {
+      "name": "Justise Winslow",
+      "position": ["SF", "PG"],
+      "height": "6'6\"",
+      "overall": "74"
+    },
+    {
+      "name": "Skylar Mays",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "72"
+    },
+    {
+      "name": "Jabari Walker",
+      "position": ["PF"],
+      "height": "6'7\"",
+      "overall": "71"
+    },
+    {
+      "name": "Keon Johnson",
+      "position": ["SG", "SF"],
+      "height": "6'3\"",
+      "overall": "71"
+    },
+    {
+      "name": "Kevin Knox",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "71"
+    },
+    {
+      "name": "Jeenathan Williams",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "70"
+    },
+    {
+      "name": "Justin Minaya",
+      "position": ["SF"],
+      "height": "6'7\"",
+      "overall": "69"
+    },
+    {
+      "name": "Chance Comanche",
+      "position": ["C"],
+      "height": "6'10\"",
+      "overall": "68"
+    },
+    {
+      "name": "Ibou Badji",
+      "position": ["C"],
+      "height": "7'1\"",
+      "overall": "67"
+    },
+    { "name": "John Butler", "position": ["C"], "height": "/", "overall": "67" }
+  ],
+  "sacramento kings": [
+    {
+      "name": "De’Aaron Fox",
+      "position": ["PG"],
+      "height": "6'3\"",
+      "overall": "89"
+    },
+    {
+      "name": "Domantas Sabonis",
+      "position": ["PF", "C"],
+      "height": "7'1\"",
+      "overall": "89"
+    },
+    {
+      "name": "Kevin Huerter",
+      "position": ["SG", "SF"],
+      "height": "6'7\"",
+      "overall": "81"
+    },
+    {
+      "name": "Malik Monk",
+      "position": ["SG", "PG"],
+      "height": "6'3\"",
+      "overall": "80"
+    },
+    {
+      "name": "Keegan Murray",
+      "position": ["SF", "PF"],
+      "height": "6'8\"",
+      "overall": "79"
+    },
+    {
+      "name": "Harrison Barnes",
+      "position": ["SF", "PF"],
+      "height": "6'8\"",
+      "overall": "79"
+    },
+    {
+      "name": "Trey Lyles",
+      "position": ["PF", "C"],
+      "height": "6'9\"",
+      "overall": "77"
+    },
+    {
+      "name": "Terence Davis",
+      "position": ["SF", "SG"],
+      "height": "6'4\"",
+      "overall": "76"
+    },
+    {
+      "name": "Chris Duarte",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/duartch01.jpg"
+    },
+    {
+      "name": "Davion Mitchell",
+      "position": ["PG"],
+      "extraData": " PG | 6'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| 2-Way 3-Level Shot Creator ",
+      "overall": "75"
+    },
+    {
+      "name": "Alex Len",
+      "position": ["C"],
+      "height": "7'2\"",
+      "overall": "74"
+    },
+    {
+      "name": "P.J. Dozier",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "74"
+    },
+    {
+      "name": "Kessler Edwards",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "71"
+    },
+    {
+      "name": "Neemias Queta",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Rim Protector ",
+      "overall": "70"
+    },
+    {
+      "name": "Keon Ellis",
+      "position": ["SG"],
+      "height": "6'3\"",
+      "overall": "68"
+    }
+  ],
+  "san antonio spurs": [
+    {
+      "name": "Keldon Johnson",
+      "position": ["SF", "PF"],
+      "height": "6'5\"",
+      "overall": "83"
+    },
+    {
+      "name": "Devin Vassell",
+      "position": ["SF", "SG"],
+      "height": "6'5\"",
+      "overall": "81"
+    },
+    {
+      "name": "Zach Collins",
+      "position": ["PF", "C"],
+      "height": "6'11\"",
+      "overall": "80"
+    },
+    {
+      "name": "Tre Jones",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "79"
+    },
+    {
+      "name": "Jeremy Sochan",
+      "position": ["PF"],
+      "height": "6'8\"",
+      "overall": "78"
+    },
+    {
+      "name": "Malaki Branham",
+      "position": ["SF"],
+      "height": "6'4\"",
+      "overall": "76"
+    },
+    {
+      "name": "Devonte’ Graham",
+      "position": ["PG", "SG"],
+      "height": "6'1\"",
+      "overall": "76"
+    },
+    {
+      "name": "Cedi Osman",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "75",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/osmande01.jpg"
+    },
+    {
+      "name": "Charles Bassey",
+      "position": ["C"],
+      "height": "6'9\"",
+      "overall": "75"
+    },
+    {
+      "name": "Doug McDermott",
+      "position": ["PF", "SF"],
+      "height": "6'6\"",
+      "overall": "74"
+    },
+    {
+      "name": "Khem Birch",
+      "position": ["C", "PF"],
+      "height": "6'8\"",
+      "overall": "74"
+    },
+    {
+      "name": "Sandro Mamukelashvili",
+      "position": ["C"],
+      "height": "6'10\"",
+      "overall": "73"
+    },
+    {
+      "name": "Lamar Stevens",
+      "position": ["PF", "SF"],
+      "height": "6'6\"",
+      "overall": "73",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/stevela01.jpg"
+    },
+    {
+      "name": "Gorgui Dieng",
+      "position": ["C"],
+      "height": "6'10\"",
+      "overall": "73"
+    },
+    {
+      "name": "Romeo Langford",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "73"
+    },
+    {
+      "name": "Blake Wesley",
+      "position": ["PG", "SG"],
+      "height": "6'4\"",
+      "overall": "72"
+    },
+    {
+      "name": "Dominick Barlow",
+      "position": ["SF", "PF"],
+      "height": "6'9\"",
+      "overall": "68"
+    },
+    {
+      "name": "Julian Champagnie",
+      "position": ["SG", "SF"],
+      "height": "6'7\"",
+      "overall": "68"
+    }
+  ],
+  "toronto raptors": [
+    {
+      "name": "Pascal Siakam",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "87"
+    },
+    {
+      "name": "Scottie Barnes",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "83"
+    },
+    {
+      "name": "OG Anunoby",
+      "position": ["SF", "PF"],
+      "height": "6'7\"",
+      "overall": "82"
+    },
+    {
+      "name": "Jakob Poeltl",
+      "position": ["C"],
+      "height": "7'1\"",
+      "overall": "81"
+    },
+    {
+      "name": "Gary Trent Jr.",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "80"
+    },
+    {
+      "name": "Chris Boucher",
+      "position": ["PF", "C"],
+      "height": "6'9\"",
+      "overall": "79"
+    },
+    {
+      "name": "Precious Achiuwa",
+      "position": ["C", "PF"],
+      "height": "6'8\"",
+      "overall": "78"
+    },
+    {
+      "name": "Dennis Schroder",
+      "position": ["PG", "SG"],
+      "height": "6'1\"",
+      "overall": "77"
+    },
+    {
+      "name": "Thaddeus Young",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "76"
+    },
+    {
+      "name": "Otto Porter Jr.",
+      "position": ["PF", "SF"],
+      "height": "6'8\"",
+      "overall": "76"
+    },
+    {
+      "name": "Jalen McDaniels",
+      "position": ["SF", "PF"],
+      "height": "6'9\"",
+      "overall": "76",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/mcdanja01.jpg"
+    },
+    {
+      "name": "Dalano Banton",
+      "position": ["SF", "SG"],
+      "height": "6'7\"",
+      "overall": "75"
+    },
+    {
+      "name": "Will Barton",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "74"
+    },
+    {
+      "name": "Christian Koloko",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Rim Protector ",
+      "overall": "73"
+    },
+    {
+      "name": "Malachi Flynn",
+      "position": ["PG"],
+      "height": "6'1\"",
+      "overall": "73"
+    },
+    {
+      "name": "Joe Wieskamp",
+      "position": ["SG", "PG"],
+      "height": "6'6\"",
+      "overall": "70"
+    },
+    {
+      "name": "Jeff Dowtin",
+      "position": ["PG"],
+      "height": "6'3\"",
+      "overall": "69"
+    },
+    {
+      "name": "Ron Harper Jr.",
+      "position": ["SG"],
+      "height": "6'5\"",
+      "overall": "68"
+    }
+  ],
+  "utah jazz": [
+    {
+      "name": "Lauri Markkanen",
+      "position": ["PF"],
+      "height": "/",
+      "overall": "86"
+    },
+    {
+      "name": "Walker Kessler",
+      "position": ["C"],
+      "extraData": " C | 7'0\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t| Defensive Anchor ",
+      "overall": "83"
+    },
+    {
+      "name": "Jordan Clarkson",
+      "position": ["SG", "SF"],
+      "height": "6'5\"",
+      "overall": "82"
+    },
+    {
+      "name": "Collin Sexton",
+      "position": ["SG", "PG"],
+      "height": "6'2\"",
+      "overall": "81"
+    },
+    {
+      "name": "John Collins",
+      "position": ["PF", "C"],
+      "height": "6'9\"",
+      "overall": "80",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/collijo01.jpg"
+    },
+    {
+      "name": "Talen Horton-Tucker",
+      "position": ["SF", "SG"],
+      "height": "6'4\"",
+      "overall": "79"
+    },
+    {
+      "name": "Kelly Olynyk",
+      "position": ["PF", "C"],
+      "height": "6'11\"",
+      "overall": "79"
+    },
+    {
+      "name": "Ochai Agbaji",
+      "position": ["SG"],
+      "height": "6'5\"",
+      "overall": "77"
+    },
+    {
+      "name": "Kris Dunn",
+      "position": ["PG"],
+      "height": "6'3\"",
+      "overall": "76"
+    },
+    {
+      "name": "Simone Fontecchio",
+      "position": ["SF"],
+      "height": "6'7\"",
+      "overall": "74"
+    },
+    {
+      "name": "Vernon Carey Jr.",
+      "position": ["C", "PF"],
+      "height": "6'10\"",
+      "overall": "73"
+    },
+    {
+      "name": "Juan Toscano-Anderson",
+      "position": ["PF", "SF"],
+      "height": "6'6\"",
+      "overall": "72"
+    },
+    {
+      "name": "Udoka Azubuike",
+      "position": ["C"],
+      "height": "6'11\"",
+      "overall": "72"
+    },
+    {
+      "name": "Luka Samanic",
+      "position": ["PF"],
+      "height": "6'10\"",
+      "overall": "71"
+    },
+    {
+      "name": "Johnny Juzang",
+      "position": ["SF"],
+      "height": "6'6\"",
+      "overall": "68"
+    },
+    {
+      "name": "Micah Potter",
+      "position": ["PF", "C"],
+      "height": "6'8\"",
+      "overall": "67"
+    }
+  ],
+  "washington wizards": [
+    {
+      "name": "Jordan Poole",
+      "position": ["SG", "PG"],
+      "height": "6'4\"",
+      "overall": "84",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/poolejo01.jpg"
+    },
+    {
+      "name": "Kyle Kuzma",
+      "position": ["SF", "PF"],
+      "height": "6'9\"",
+      "overall": "83"
+    },
+    {
+      "name": "Tyus Jones",
+      "position": ["PG"],
+      "height": "6'2\"",
+      "overall": "80"
+    },
+    {
+      "name": "Danilo Gallinari",
+      "position": ["PF", "SF"],
+      "height": "6'10\"",
+      "overall": "78"
+    },
+    {
+      "name": "Corey Kispert",
+      "position": ["SF", "SG"],
+      "height": "6'6\"",
+      "overall": "78"
+    },
+    {
+      "name": "Delon Wright",
+      "position": ["PG", "SG"],
+      "height": "6'5\"",
+      "overall": "78"
+    },
+    {
+      "name": "Daniel Gafford",
+      "position": ["C"],
+      "height": "6'10\"",
+      "overall": "77"
+    },
+    {
+      "name": "Deni Avdija",
+      "position": ["SF", "PF"],
+      "height": "6'9\"",
+      "overall": "76"
+    },
+    {
+      "name": "Landry Shamet",
+      "position": ["SG", "SF"],
+      "height": "6'4\"",
+      "overall": "75"
+    },
+    {
+      "name": "Mike Muscala",
+      "position": ["C", "PF"],
+      "height": "6'11\"",
+      "overall": "75"
+    },
+    {
+      "name": "Kendrick Nunn",
+      "position": ["PG", "SG"],
+      "height": "6'3\"",
+      "overall": "75"
+    },
+    {
+      "name": "Taj Gibson",
+      "position": ["C"],
+      "height": "6'9\"",
+      "overall": "73"
+    },
+    {
+      "name": "Johnny Davis",
+      "position": ["SG"],
+      "height": "6'4\"",
+      "overall": "72"
+    },
+    {
+      "name": "Patrick Baldwin Jr.",
+      "position": ["SF", "PF"],
+      "height": "6'9\"",
+      "overall": "72",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/baldwpa01.jpg"
+    },
+    {
+      "name": "Anthony Gill",
+      "position": ["PF"],
+      "height": "6'8\"",
+      "overall": "72"
+    },
+    {
+      "name": "Xavier Cooks",
+      "position": ["SF", "PF"],
+      "height": "6'8\"",
+      "overall": "71"
+    },
+    {
+      "name": "Ryan Rollins",
+      "position": ["SG", "PG"],
+      "height": "6'3\"",
+      "overall": "68",
+      "image": "https://www.basketball-reference.com/req/202106291/images/headshots/rolliry01.jpg"
+    },
+    {
+      "name": "Quenton Jackson",
+      "position": ["SG", "PG"],
+      "height": "6'5\"",
+      "overall": "68"
+    },
+    {
+      "name": "Jay Huff",
+      "position": ["C"],
+      "height": "7'1\"",
+      "overall": "67"
+    }
+  ]
+}
