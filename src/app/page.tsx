@@ -1,5 +1,7 @@
 "use client";
 
+/* eslint-disable */
+
 import Image from "next/image";
 import styles from "./page.module.css";
 import playerData from "../../server/data2.json";
