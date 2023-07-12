@@ -19,7 +19,7 @@ interface Player {
 
 export default function Home(props: any) {
   const [players, setPlayers] = useState<Player[]>(
-    getRandomPlayers(playerData, 20, 85)
+    getRandomPlayers(playerData, 60, 84)
   );
   const [randomPlayer, setRandomPlayer] = useState<Player>({
     name: "",
@@ -29,6 +29,7 @@ export default function Home(props: any) {
     image: "",
   });
   const [reveal, setReveal] = useState<boolean>(false);
+  const [showAllPlayers, setShowAllPlayers] = useState<boolean>(false);
 
   useEffect(() => {
     setRandomPlayer(getRandomItem(players));
@@ -109,6 +110,22 @@ export default function Home(props: any) {
           >
             Reroll
           </button>
+
+          <button
+            className={styles.button}
+            onClick={() => {
+              setShowAllPlayers(!showAllPlayers);
+            }}
+          >
+            Show all possible players
+          </button>
+          {showAllPlayers && (
+            <div className={styles.showAllPlayers}>
+              {players.map((player) => {
+                return <p>{player.name}</p>;
+              })}
+            </div>
+          )}
         </div>
       </div>
     </main>

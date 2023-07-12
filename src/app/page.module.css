@@ -23,6 +23,21 @@
   border-radius: 5%;
 }
 
+.showAllPlayers {
+  max-height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.showAllPlayers p {
+  flex: 1 0 25%; /* '1 0 12.5%' means 'grow: 1, shrink: 0, basis: 12.5%' */
+  box-sizing: border-box;
+  height: 20%; /* This is because 100% (which is the total) divided by 5 (rows) equals 20% */
+  margin: 0; /* To remove any default margins */
+  padding: 10px; /* Optional: if you want some space inside each box */
+}
+
 .button:hover {
   background: rgb(204, 195, 195);
   transition: 1s;
