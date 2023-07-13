@@ -7,6 +7,8 @@ import styles from "./page.module.css";
 import playerData from "../../server/data2.json";
 import { getRandomPlayers, getRandomItem } from "@/utils/getRandomPlayer";
 import { useEffect, useState } from "react";
+import Stat from "./components/Stat/Stat";
+import Input from "./components/Input/Input";
 
 interface Player {
   name: string;
@@ -19,7 +21,7 @@ interface Player {
 
 export default function Home(props: any) {
   const [players, setPlayers] = useState<Player[]>(
-    getRandomPlayers(playerData, 60, 84)
+    getRandomPlayers(playerData, 100, 80)
   );
   const [randomPlayer, setRandomPlayer] = useState<Player>({
     name: "",
@@ -46,8 +48,6 @@ export default function Home(props: any) {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <h1>Guess the nba player</h1>
-
         <div className={styles.container}>
           <div className={styles.container_item}>
             <p>Position: </p>
@@ -59,37 +59,25 @@ export default function Home(props: any) {
             </div>
           </div>
 
-          {height && <p className={styles.container_item}>Height: {height}</p>}
-          {randomPlayer.extraData && (
-            <p className={styles.container_item}>
-              Extra Data {randomPlayer.extraData}
-            </p>
-          )}
-          <p className={styles.container_item}>Overall: {overall}</p>
+          {height && <Stat atr="Height" data={height} />}
 
-          {reveal ? (
-            <div>
-              <p className={styles.container_item}>Name: {name}</p>
-              {randomPlayer.image ? (
-                <Image
-                  className={styles.image}
-                  src={randomPlayer.image}
-                  alt="player image"
-                  height={150}
-                  width={110}
-                />
-              ) : (
-                <Image
-                  className={styles.image}
-                  alt="Placeholder Player Image"
-                  src="/noPlayerImage.png"
-                  height={200}
-                  width={200}
-                />
-              )}
-            </div>
-          ) : (
-            <div>
+          {randomPlayer.extraData && (
+            <Stat atr="Extra Data" data={randomPlayer.extraData} />
+          )}
+          <Stat atr="Overall" data={overall} />
+
+          <div>
+            {reveal ? (
+              <button
+                className={styles.button}
+                onClick={() => {
+                  setRandomPlayer(getRandomItem(players));
+                  setReveal(false);
+                }}
+              >
+                Next
+              </button>
+            ) : (
               <button
                 className={styles.button}
                 onClick={() => {
@@ -98,35 +86,46 @@ export default function Home(props: any) {
               >
                 Reveal Player
               </button>
-            </div>
-          )}
+            )}
+          </div>
 
-          <button
-            className={styles.button}
-            onClick={() => {
-              setRandomPlayer(getRandomItem(players));
-              setReveal(false);
-            }}
-          >
-            Reroll
-          </button>
+          <div></div>
+        </div>
 
-          <button
-            className={styles.button}
-            onClick={() => {
-              setShowAllPlayers(!showAllPlayers);
-            }}
-          >
-            Show all possible players
-          </button>
-          {showAllPlayers && (
-            <div className={styles.showAllPlayers}>
-              {players.map((player) => {
-                return <p>{player.name}</p>;
-              })}
-            </div>
+        <div>
+          <Stat atr="Name" data={reveal ? randomPlayer.name : "???"} />
+          {reveal && (
+            <Image
+              className={styles.image}
+              src={randomPlayer.image || "/noPlayerImage.png"}
+              alt="player image"
+              height={195}
+              width={143}
+            />
           )}
         </div>
+        <div>
+          <Input players={players} />
+        </div>
+      </div>
+
+      <div>
+        <button
+          className={styles.button}
+          onClick={() => {
+            setShowAllPlayers(!showAllPlayers);
+          }}
+        >
+          Show all possible players
+        </button>
+
+        {showAllPlayers && (
+          <div className={styles.showAllPlayers}>
+            {players.map((player) => {
+              return <p>{player.name}</p>;
+            })}
+          </div>
+        )}
       </div>
     </main>
   );

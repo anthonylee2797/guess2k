@@ -1,7 +1,3 @@
-.main {
-  padding: 6rem;
-}
-
 .container_item {
   margin: 10px;
   background-color: rgba(var(--callout-rgb), 0.5);
@@ -21,10 +17,11 @@
   background: none;
   border: 1px solid gray;
   border-radius: 5%;
+  width: 200px;
+  text-align: left;
 }
 
 .showAllPlayers {
-  max-height: 50vh;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -33,7 +30,7 @@
 .showAllPlayers p {
   flex: 1 0 25%; /* '1 0 12.5%' means 'grow: 1, shrink: 0, basis: 12.5%' */
   box-sizing: border-box;
-  height: 20%; /* This is because 100% (which is the total) divided by 5 (rows) equals 20% */
+  height: 10%; /* This is because 100% (which is the total) divided by 5 (rows) equals 20% */
   margin: 0; /* To remove any default margins */
   padding: 10px; /* Optional: if you want some space inside each box */
 }
@@ -48,14 +45,7 @@
 }
 
 .description {
-  display: inherit;
-  justify-content: inherit;
-  align-items: inherit;
-  font-size: 0.85rem;
-  max-width: var(--max-width);
-  width: 100%;
-  z-index: 2;
-  font-family: var(--font-mono);
+  display: flex;
 }
 
 .description a {
