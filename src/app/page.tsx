@@ -9,6 +9,7 @@ import { getRandomPlayers, getRandomItem } from "@/utils/getRandomPlayer";
 import { useEffect, useState } from "react";
 import Stat from "./components/Stat/Stat";
 import Input from "./components/Input/Input";
+import Score from "./components/Score/Score";
 
 interface Player {
   name: string;
@@ -21,7 +22,7 @@ interface Player {
 
 export default function Home(props: any) {
   const [players, setPlayers] = useState<Player[]>(
-    getRandomPlayers(playerData, 100, 80)
+    getRandomPlayers(playerData, 5, 95)
   );
   const [randomPlayer, setRandomPlayer] = useState<Player>({
     name: "",
@@ -30,19 +31,66 @@ export default function Home(props: any) {
     overall: "",
     image: "",
   });
-  const [reveal, setReveal] = useState<boolean>(false);
+  // const [reveal, setReveal] = useState<boolean>(false);
   const [showAllPlayers, setShowAllPlayers] = useState<boolean>(false);
+  // const [chances, setChances] = useState(8);
+  // const [gameResult, setGameResult] = useState("inProgress");
+  // const [guesses, setGuesses] = useState([]);
+
+  const [game, setGame] = useState({
+    chances: 8,
+    guesses: [],
+    gameResult: "inProgress",
+    reveal: false,
+  });
+
+  const { chances, guesses, gameResult, reveal } = game;
 
   useEffect(() => {
     setRandomPlayer(getRandomItem(players));
   }, []);
 
-  const { name, position, height, overall, image } = randomPlayer;
+  useEffect(() => {
+    if (chances === 0) {
+      setGame({ ...game, gameResult: "lose" });
+    }
+  }, [game.chances]);
 
-  console.log(randomPlayer, players);
+  const { name, position, height, overall, image } = randomPlayer;
 
   if (!randomPlayer) {
     return null;
+  }
+
+  function selectPlayer(player) {
+    if (player === randomPlayer.name) {
+      setGame({ ...game, reveal: true, gameResult: "win" });
+    } else {
+      setGame({ ...game, chances: game.chances - 1 });
+    }
+  }
+
+  if (gameResult === "win" || gameResult === "lose") {
+    return (
+      <main className={styles.main}>
+        {gameResult === "win" && <p>You Won</p>}
+        {gameResult === "lose" && <p>You lost!</p>}
+        <button
+          onClick={() => {
+            setGame({
+              chances: 8,
+              guesses: [],
+              gameResult: "inProgress",
+              reveal: false,
+            });
+
+            setRandomPlayer(getRandomItem(players));
+          }}
+        >
+          Play Again
+        </button>
+      </main>
+    );
   }
 
   return (
@@ -58,21 +106,18 @@ export default function Home(props: any) {
               })}
             </div>
           </div>
-
           {height && <Stat atr="Height" data={height} />}
-
           {randomPlayer.extraData && (
             <Stat atr="Extra Data" data={randomPlayer.extraData} />
           )}
           <Stat atr="Overall" data={overall} />
-
           <div>
             {reveal ? (
               <button
                 className={styles.button}
                 onClick={() => {
                   setRandomPlayer(getRandomItem(players));
-                  setReveal(false);
+                  setGame({ ...game, reveal: false });
                 }}
               >
                 Next
@@ -81,14 +126,13 @@ export default function Home(props: any) {
               <button
                 className={styles.button}
                 onClick={() => {
-                  setReveal(true);
+                  setGame({ ...game, chances: game.chances - 1, reveal: true });
                 }}
               >
                 Reveal Player
               </button>
             )}
           </div>
-
           <div></div>
         </div>
 
@@ -105,7 +149,17 @@ export default function Home(props: any) {
           )}
         </div>
         <div>
-          <Input players={players} />
+          {!reveal && (
+            <Input
+              randomPlayer={randomPlayer}
+              players={players}
+              onSelect={selectPlayer}
+            />
+          )}
+        </div>
+
+        <div>
+          <Score text="Chances" rounds={chances} emoji="💜" />
         </div>
       </div>
 

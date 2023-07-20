@@ -1,17 +1,22 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
-const Input = ({ players }) => {
+const Input = ({ randomPlayer, players, onSelect }) => {
   const [inputValue, setInputValue] = useState("");
+
+  useEffect(() => {
+    setInputValue("");
+  }, [randomPlayer]);
 
   const handleInputChange = (event) => {
     setInputValue(event.target.value);
   };
 
-  const handleKeyPress = (event) => {
-    if (event.key === "Enter") {
-      // Run your code here when Enter key is pressed
-      console.log("Enter key pressed!");
+  const handleSelect = (playerName) => {
+    if (randomPlayer.name === playerName) {
+      setInputValue(playerName);
     }
+
+    onSelect(playerName);
   };
 
   const filteredPlayers = players.filter((player) =>
@@ -21,17 +26,19 @@ const Input = ({ players }) => {
   return (
     <div>
       <input
+        list="players"
         type="text"
         value={inputValue}
         onChange={handleInputChange}
-        onKeyPress={handleKeyPress}
       />
-      <div>
+      <ul>
         {inputValue.length > 1 &&
-          filteredPlayers.map((player) => (
-            <p key={player.name}>{player.name}</p>
+          filteredPlayers.map((player, index) => (
+            <li class key={player.name} onClick={() => handleSelect(player.name)}>
+              {player.name}
+            </li>
           ))}
-      </div>
+      </ul>
     </div>
   );
 };

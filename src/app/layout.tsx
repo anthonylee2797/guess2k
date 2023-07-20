@@ -18,7 +18,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         {" "}
-        <h1>Guess the nba player</h1>
+        <h1>Guess the nba player. You must guess 5 🏀 players</h1>
         {children}
       </body>
     </html>
